@@ -45,7 +45,7 @@ function init() {
 	    ctx.fillStyle = "black";
 	    ctx.textAlign="center"; 
 
-	    ctx.fillText("Flappy Jeremy",canvas.width/2,canvas.height/2-80);
+	    ctx.fillText("Waifu Chaser",canvas.width/2,canvas.height/2-80);
 	    ctx.font = "30px Comic Sans MS";
 	    ctx.fillText("Click to start",canvas.width/2,canvas.height/2-15);
 	    ctx.fillText("Press \"j\" to jump",canvas.width/2,canvas.height/2+50);
