@@ -217,9 +217,9 @@ function endGame(){
 function reset() {
 
 	temp = 0;
-	posX = 100;
+	posX = 150;
 	posY = 450;
-	posX2 = 100;
+	posX2 = 50;
 	posY2 = 450;
 	velX2 = 0;
 	velY2 = 0;
